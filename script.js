@@ -5,7 +5,7 @@ app.innerHTML = `
 <div class="hero">
     <div class="petals"></div>
     <h1>🌸 倫敦賞櫻一日行程</h1>
-    <p>2026年3月21日 星期六 | 春天最美的一天</p>
+    
 </div>
 <div class="nav-tabs"></div>
 <div id="itinerary" class="section active"></div>
